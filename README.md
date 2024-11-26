@@ -32,7 +32,7 @@ Here’s a simple example of a button:
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/simplyYan/CascadingLines@refs/heads/main/cascadinglines.css">
+  <script src="https://cdn.jsdelivr.net/gh/simplyYan/CascadingLines@refs/heads/main/cascadinglines.js"></script>
 </head>
 <body>
   <button class="btn btn-primary">Click Me</button>
