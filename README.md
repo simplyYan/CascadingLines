@@ -20,8 +20,10 @@ CascadingLines is a lightweight CSS framework that prioritizes simplicity, respo
 Include the CascadingLines CSS file in your project via the following link:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/simplyYan/CascadingLines@refs/heads/main/cascadinglines.css">
+<script src="href="https://cdn.jsdelivr.net/gh/simplyYan/CascadingLines@refs/heads/main/cascadinglines.js"></script>
 ```
+### Or download it
+For production use, it is recommended to download the framework, as it is much more reliable and stable. To download it,  <a href="https://raw.githubusercontent.com/simplyYan/CascadingLines/refs/heads/main/cascadinglines.js" download>click here.</a>
 
 ### **Basic Usage**
 Here’s a simple example of a button:
